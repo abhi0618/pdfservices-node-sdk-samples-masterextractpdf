@@ -1,0 +1,32 @@
+﻿Group performance rating (N ¼ 1528)  ,Individual performance rating (N ¼ 10 717)  ,Composite bonus (N ¼ 10 716)  
+Step 1: Controls  ,,
+Group size 0.009  ,0.013  ,0.02*  
+Salary 0.591***  ,0.442***  ,0.555***  
+R2 0.509  ,0.197  ,0.322  
+Adjusted R2 0.504  ,0.197  ,0.322  
+F 399.027***  ,1014.456***  ,2541.801***  
+Step 2: Diversity main effects  ,,
+Age Diversity (A) 0.077***  ,0.102***  ,0.119***  
+Race Diversity (R) 0.127***  ,0.087***  ,0.033***  
+Gender Diversity (G) 0.078***  ,0.064***  ,0.037***  
+Tenure Diversity (T) 0.098***  ,0.079***  ,0.012  
+Function Diversity (F) 0.143***  ,0.076***  ,0.051***  
+Education Diversity (E) 0.060**  ,0.045***  ,0.025**  
+Change in R2 0.068  ,0.042  ,0.022  
+F change 28.496***  ,76.703***  ,57.944***  
+R2 0.418  ,0.239  ,0.331  
+Adjusted R2 0.415  ,0.238  ,0.331  
+F 132.264***  ,325.057***  ,663.588***  
+Step 3: Context main effects  ,,
+Customer-oriented strategies (CusBS) 0.084  ,0.023  ,0.020  
+Growth-oriented strategies (GrowBS) 0.256  ,0.276**  ,0.122  
+Stability-oriented strategies (StabBS) 0.194  ,0.177**  ,0.423***  
+People-oriented cultures (PeoOC) 0.051  ,0.003  ,0.050  
+"Competition-oriented cultures, (CompOC) 0.126  ",0.116  ,0.059  
+Training-oriented HR practices (TraHR) 0.215  ,0.119  ,0.097  
+Diversity-oriented HR practices (DivHR) 0.018  ,0.032  ,0.401***  
+Change in R2 0.091  ,0.054  ,0.028  
+F change 38.886***  ,90.507***  ,67.309***  
+R2 0.509  ,0.293  ,0.360  
+Adjusted R2 0.504  ,0.292  ,0.359  
+F 101.397***  ,228.732***  ,400.667***  
